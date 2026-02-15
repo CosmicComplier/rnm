@@ -19,7 +19,7 @@ def rnm():
     person.display()
     if fuck(person) == True:
         for words in ddzWords:
-            print(words)
+            print("ddz:"+words)
     else:
         pass
 if __name__ == "__main__":
