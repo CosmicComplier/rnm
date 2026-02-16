@@ -13,7 +13,7 @@ def fuck(person):
         print("验证通过！")
         return True
         
-def rnm():
+def rnm():#ddz说要有rnm(),于是便有了rnm()(
     name = input("请输入名字：")
     person = people(name)
     person.display()
