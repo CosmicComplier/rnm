@@ -25,6 +25,29 @@ rnm() 函数：
 接收用户输入的名字
 创建 people 类实例
 调用实例的 display() 方法显示名字
+景冰说得对所以:
+景冰:建议使用以下方式rnm，解决了调用rnm但不知道怎么处理的问题
+[UDP rnm] 没日到就是丢包了。
+[TCP rnm] 没日到就重传直到确认。
+[IP rnm] 没日到就是路由错误。
+[HTTP rnm] 没日到就返回404。
+[DNS rnm] 没日到就是解析失败。
+[FTP rnm] 没日到就是传输中断。
+[ICMP rnm] 没日到就发送超时消息。
+[ARP rnm] 没日到就是地址找不到。
+[DHCP rnm] 没日到就是分配冲突。
+[SSH rnm] 没日到就是密钥错误。
+[SSL rnm] 没日到就是证书过期。
+[BGP rnm] 没日到就是路径撤回。
+[SMTP rnm] 没日到就是服务器拒收。
+[POP3 rnm] 没日到就是连接超时。
+[VoIP rnm] 没日到就是网络抖动。
+[VPN rnm] 没日到就是隧道加密。
+[NAT rnm] 没日到就是转换丢失。
+[QoS rnm] 没日到就是优先级低。
+[CDN rnm] 没日到就是缓存未命中。
+[MPLS rnm] 没日到就是标签错误。
+[WiFi rnm] 没日到就是信号弱。
 许可证
 MIT License
 
