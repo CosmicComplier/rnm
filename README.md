@@ -4,51 +4,58 @@
 这是一个简单的 Python 项目，用于演示类的基本使用和用户输入处理。项目通过创建 `people` 类实例，实现对用户输入名字的接收与显示功能。
 
 ## 项目结构
-rnm()/ 
-├── rnm.py # 主脚本文件，包含核心功能实现
-└── README.md # 项目说明文档
+rnm()/<br>
+├── rnm.py # 主脚本文件，包含核心功能实现<br>
+└── README.md # 项目说明文档<br>
 └── ddzsyas.jpg #ddz圣经
+
 ## 安装与运行
 ### 环境要求
 - Python 3.x
 
 ### 运行步骤
 1. 确保已安装 Python 3.x 环境
-运行脚本：python rnm.py
-根据提示输入名字，脚本将显示输入的名字信息。
-功能说明
-核心类与函数
-people 类：
-初始化方法 __init__(self, name)：接收名字参数并设置默认属性 mum = True
-display(self) 方法：打印人员名字信息
-rnm() 函数：
-接收用户输入的名字
-创建 people 类实例
-调用实例的 display() 方法显示名字
-景冰说得对所以:
-景冰:建议使用以下方式rnm，解决了调用rnm但不知道怎么处理的问题
-[UDP rnm] 没日到就是丢包了。
-[TCP rnm] 没日到就重传直到确认。
-[IP rnm] 没日到就是路由错误。
-[HTTP rnm] 没日到就返回404。
-[DNS rnm] 没日到就是解析失败。
-[FTP rnm] 没日到就是传输中断。
-[ICMP rnm] 没日到就发送超时消息。
-[ARP rnm] 没日到就是地址找不到。
-[DHCP rnm] 没日到就是分配冲突。
-[SSH rnm] 没日到就是密钥错误。
-[SSL rnm] 没日到就是证书过期。
-[BGP rnm] 没日到就是路径撤回。
-[SMTP rnm] 没日到就是服务器拒收。
-[POP3 rnm] 没日到就是连接超时。
-[VoIP rnm] 没日到就是网络抖动。
-[VPN rnm] 没日到就是隧道加密。
-[NAT rnm] 没日到就是转换丢失。
-[QoS rnm] 没日到就是优先级低。
-[CDN rnm] 没日到就是缓存未命中。
-[MPLS rnm] 没日到就是标签错误。
+2. 运行脚本：python rnm.py
+3. 根据提示输入名字，脚本将显示输入的名字信息。
+
+## 功能说明
+### 核心类与函数
+`people` 类：
+
+初始化方法 `__init__(self, name)`：接收名字参数并设置默认属性 `mum` = `True`
+
+`display(self)` 方法：打印人员名字信息
+
+`rnm()` 函数：<br>
+接收用户输入的名字<br>
+创建 `people` 类实例<br>
+调用实例的 `display()` 方法显示名字
+
+景冰说得对所以:<br>
+景冰:建议使用以下方式rnm，解决了调用rnm但不知道怎么处理的问题<br>
+[UDP rnm] 没日到就是丢包了。<br>
+[TCP rnm] 没日到就重传直到确认。<br>
+[IP rnm] 没日到就是路由错误。<br>
+[HTTP rnm] 没日到就返回404。<br>
+[DNS rnm] 没日到就是解析失败。<br>
+[FTP rnm] 没日到就是传输中断。<br>
+[ICMP rnm] 没日到就发送超时消息。<br>
+[ARP rnm] 没日到就是地址找不到。<br>
+[DHCP rnm] 没日到就是分配冲突。<br>
+[SSH rnm] 没日到就是密钥错误。<br>
+[SSL rnm] 没日到就是证书过期。<br>
+[BGP rnm] 没日到就是路径撤回。<br>
+[SMTP rnm] 没日到就是服务器拒收。<br>
+[POP3 rnm] 没日到就是连接超时。<br>
+[VoIP rnm] 没日到就是网络抖动。<br>
+[VPN rnm] 没日到就是隧道加密。<br>
+[NAT rnm] 没日到就是转换丢失。<br>
+[QoS rnm] 没日到就是优先级低。<br>
+[CDN rnm] 没日到就是缓存未命中。<br>
+[MPLS rnm] 没日到就是标签错误。<br>
 [WiFi rnm] 没日到就是信号弱。
-许可证
+
+## 许可证
 MIT License
 
 Copyright (c) 2026 rnm Project
